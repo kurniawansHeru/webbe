@@ -1,0 +1,55 @@
+{
+  "kategori": "nim_ganjil",
+  "barang_elektronik": [
+    {
+      "nama_barang": "Laptop",
+      "jumlah": 5,
+      "harga": 8500000
+    },
+    {
+      "nama_barang": "Smartphone",
+      "jumlah": 10,
+      "harga": 3200000
+    },
+    {
+      "nama_barang": "Tablet",
+      "jumlah": 4,
+      "harga": 4500000
+    },
+    {
+      "nama_barang": "Smart TV",
+      "jumlah": 3,
+      "harga": 7200000
+    },
+    {
+      "nama_barang": "Kamera Digital",
+      "jumlah": 6,
+      "harga": 5000000
+    },
+    {
+      "nama_barang": "Power Bank",
+      "jumlah": 15,
+      "harga": 250000
+    },
+    {
+      "nama_barang": "Printer",
+      "jumlah": 2,
+      "harga": 1800000
+    },
+    {
+      "nama_barang": "Headphone",
+      "jumlah": 12,
+      "harga": 350000
+    },
+    {
+      "nama_barang": "Monitor",
+      "jumlah": 5,
+      "harga": 2100000
+    },
+    {
+      "nama_barang": "Keyboard Mechanical",
+      "jumlah": 8,
+      "harga": 650000
+    }
+  ]
+}
